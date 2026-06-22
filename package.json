@@ -7,6 +7,6 @@
   "author": "Alexandre DEVELY",
   "license": "GNU GPL 2",
   "dependencies": {
-    "ws": "^8.17.1"
+    "ws": "^7.5.11"
   }
 }
